@@ -101,5 +101,7 @@ flutter {
 }
 
 dependencies {
-    implementation 'com.google.android.gms:play-services-base:18.3.0'
+    // ...
+    implementation("com.google.android.material:material:<version>")
+    // ...
 }
